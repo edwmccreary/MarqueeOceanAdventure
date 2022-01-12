@@ -1,5 +1,31 @@
+*{
+  margin: 0px;
+  white-space: 0px;
+}
+
+.sky {
+  
+  background-color: #feffdc;
+  height: 200px;
+  width: 100%;
+}
+
+.ocean {
+  position: absolute;
+  background-color: #0059EC;
+  height: 100%;
+  width: 100%;
+}
+
+.earth {
+  position: absolute;
+  background-color: #4b4727;
+  height: 100%;
+  width: 100%;
+}
+
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
